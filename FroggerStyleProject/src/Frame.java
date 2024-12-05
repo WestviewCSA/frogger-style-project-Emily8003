@@ -59,7 +59,7 @@ public class Frame extends JPanel implements ActionListener, MouseListener, KeyL
 	int height = 780;	
 	
 
-	public void paint(Graphics g) {
+	public void paint(Graphics g) { 
 		super.paintComponent(g);
 		
 		
